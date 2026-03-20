@@ -1,17 +1,19 @@
 <h1 align="center">Hey 👋, I'm Erivan!</h1>
 <p align="center">A software developer from Brazil 👨‍💻</p>
 
-<p align="left">- ✨ Focus on Front-End development<br>- 📚 UX/UI design enthusiast 🎨 <br>- 🌎  I'm currently learning Swedish ❄️ <br>- 🏅 And I practice boxing too 🥊</p>
+## About me
+- ✨ Focus on Front-End development
+- 📚 UX/UI design enthusiast 🎨
+- 🌎  I'm currently learning Swedish ❄️
+- 🏅 And I practice boxing too 🥊</p>
 
-<br>
-
+## Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erivanpaiva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2&border_radius=26" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=erivanpaiva&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=26&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br>
-
+## Languages and Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
