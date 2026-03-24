@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Erivan!</h1>
-<p align="center">A Software developer from Brazil 👨‍💻</p>
+<p align="center">A software developer from Brazil 👨‍💻</p>
 
 ## About me
 - ✨ Focus on Front-End development
