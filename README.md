@@ -15,35 +15,35 @@
 
 ## Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="44" alt="javascript logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="44" alt="react logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="44" alt="typescript logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="nextjs logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="44" alt="html5 logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="44" alt="kotlin logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="44" alt="css logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="tailwindcss logo"  />
   <img width="2" />
-  <img src="https://i.imgur.com/Kw01qgn.png" height="45" alt="java logo"  />
+  <img src="https://i.imgur.com/Kw01qgn.png" height="44" alt="java logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="44" alt="python logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="44" alt="c logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="44" alt="postgresql logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="44" alt="csharp logo"  />
   <img width="2" />
-  <img src="https://i.imgur.com/fxBwycg.png" height="45" alt="visualstudio logo"  />
+  <img src="https://i.imgur.com/fxBwycg.png" height="44" alt="visualstudio logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="44" alt="git logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="vscode logo"  />
 </div>
