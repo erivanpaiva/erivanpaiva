@@ -5,7 +5,7 @@
 - ✨ Focus on Front-End development
 - 📚 UX/UI design enthusiast 🎨
 - 🌎  I'm currently learning Swedish ❄️
-- 🏅 And I practice boxing too 🥊
+- 🥊 And I practice boxing too 🏅
 
 
 ## Stats
