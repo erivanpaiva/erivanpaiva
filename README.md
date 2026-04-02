@@ -13,7 +13,7 @@
   <img src="https://streak-stats.demolab.com?user=erivanpaiva&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=26&order=3" height="150" alt="streak graph"  />
 </div>
 
-## Languages and Tools
+## Techs and Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
   <img width="1px"/>
