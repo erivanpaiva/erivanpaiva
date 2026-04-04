@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Erivan!</h1>
+<h1 align="center">Hey 👋, I'm Erivan Paiva!</h1>
 <p align="center">A Software developer from Brazil 👨‍💻</p>
 
 ## About me
