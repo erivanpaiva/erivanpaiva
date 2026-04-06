@@ -10,7 +10,7 @@
 
 ## Stats
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=erivanpaiva&theme=merko&border_radius=24&short_numbers=true&card_width=840" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=erivanpaiva&theme=merko&border_radius=24&short_numbers=true&card_width=820&card_height=170" alt="GitHub Streak" /></a>
 </div>
 
 ## Techs and Tools
