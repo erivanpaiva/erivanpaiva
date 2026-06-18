@@ -38,13 +38,14 @@
   <img width="1px"/>
   <img src="https://skillicons.dev/icons?i=c" height="42" alt="c logo"  />
   <img width="1px"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
+  <img src="https://i.imgur.com/Fv76q23.png" height="42" alt="nodejs logo"  />
   <img width="1px"/>
   <img src="https://skillicons.dev/icons?i=cs" height="42" alt="csharp logo"  />
   <img width="1px"/>
-  <img src="https://i.imgur.com/fxBwycg.png" height="42" alt="visualstudio logo"  />
+  <img src="https://i.imgur.com/FrVQVtI.png" height="42" alt="sql logo"  />
   <img width="1px"/>
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
   <img width="1px"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
+  
 </div>
