@@ -2,16 +2,15 @@
 <p align="center">A Software developer from Brazil 👨‍💻</p>
 
 ## About me
-- ✨ Focus on Front-End development
+- ✨ Building web, mobile and back-end applications
 - 📚 UX/UI design enthusiast 🎨
 - 🌎  I'm currently learning Swedish ❄️
-- 🥊 And I practice boxing too 🏅
+- 🥊 And I practice boxing 🏅
 
 
 ## Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erivanpaiva&locale=en&card_width=340&langs_count=6&theme=merko&hide_border=false&&border_radius=24&order=2&layout=compact" height="170" alt="languages graph"  />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=erivanpaiva&theme=merko&border_radius=24&short_numbers=true&card_width=580" height="165" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=erivanpaiva&theme=merko&border_radius=24&short_numbers=true&card_width=975" height="165" alt="GitHub Streak" /></a>
 </div>
 
 ## Techs and Tools
@@ -42,10 +41,10 @@
   <img width="1px"/>
   <img src="https://skillicons.dev/icons?i=cs" height="42" alt="csharp logo"  />
   <img width="1px"/>
-  <img src="https://i.imgur.com/FrVQVtI.png" height="42" alt="sql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
+  <img width="1px"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="42" alt="dot-net logo"  />
   <img width="1px"/>
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
-  <img width="1px"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
   
 </div>
